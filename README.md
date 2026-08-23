@@ -79,7 +79,7 @@ map, sqlmap, hydra, hashcat, exfiltrate, shred).
 
 ## ⚖️ License & Copyright / Lizenz
 
-**Copyright © 2026 ZenTech. All Rights Reserved. / Alle Rechte vorbehalten.**
+**Copyright © 2026 Zenkner-Technology. All Rights Reserved. / Alle Rechte vorbehalten.**
 
 This source code and its associated assets are published strictly for educational and portfolio presentation purposes.  
 Unauthorized copying, modification, redistribution, reverse engineering, or commercial publishing (including deployment to the Google Play Store or other distribution channels) without explicit written permission from the copyright owner is strictly prohibited.
