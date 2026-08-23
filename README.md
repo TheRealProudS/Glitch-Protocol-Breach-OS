@@ -5,7 +5,7 @@
 </p>
 
 <p align=center>
-  <b>Immersive Cyberpunk Hacker Simulation & Bitcoin Mining Tycoon for Android.</b><br>
+  <b>Immersive Hacker Simulation & Bitcoin Mining Tycoon for Android.</b><br>
   <i>Eintauchen in die Cyber-Unterwelt – Realistisches Terminal-Hacking, Krypto-Mining & Desktop OS.</i>
 </p>
 
@@ -14,7 +14,7 @@
 ## 🇩🇪 Deutsch
 
 ### 📖 Über das Spiel
-**Glitch Protocol: Breach OS** ist eine immersive Cyberpunk-Hacking-Simulation im Stil einer voll funktionsfähigen Kali-Linux/Desktop-Umgebung für Android. 
+**Glitch Protocol: Breach OS** ist eine immersive Hacking-Simulation im Stil einer voll funktionsfähigen Kali-Linux/Desktop-Umgebung für Android. 
 
 Als aufstrebender Hacker in Berlin startest du mit einem alten ThinkPad in einem feuchten Kellerzimmer im Wedding. Dein Ziel: Sicherheitslücken in Unternehmensnetzwerken aufspüren, lukrative Kopfgelder erbeuten, Krypto-Mining-Hardware zusammenschrauben und dir den Weg bis an die Spitze der Cyber-Unterwelt freizuhacken.
 
