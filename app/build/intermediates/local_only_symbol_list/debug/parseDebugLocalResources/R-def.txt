@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+drawable app_logo
+drawable berlin_map_bg
+drawable germany_map
+drawable hideout_garage
+drawable hideout_keller
+drawable hideout_penthouse
+drawable splashscreen
+mipmap ic_launcher
+mipmap ic_launcher_round

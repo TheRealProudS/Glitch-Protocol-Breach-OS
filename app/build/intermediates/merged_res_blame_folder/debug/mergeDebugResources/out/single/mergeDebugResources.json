@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-debug-43:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-debug-43:\\drawable_app_logo.png.flat",
+        "source": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-main-45:\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-debug-43:\\drawable_hideout_garage.jpg.flat",
+        "source": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-main-45:\\drawable\\hideout_garage.jpg"
+    },
+    {
+        "merged": "com.zentech.glitchprotocol.app-debug-43:/drawable_germany_map.jpg.flat",
+        "source": "com.zentech.glitchprotocol.app-main-45:/drawable/germany_map.jpg"
+    },
+    {
+        "merged": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-debug-43:\\drawable_hideout_keller.jpg.flat",
+        "source": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-main-45:\\drawable\\hideout_keller.jpg"
+    },
+    {
+        "merged": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-debug-43:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-main-45:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-debug-43:\\drawable_berlin_map_bg.jpg.flat",
+        "source": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-main-45:\\drawable\\berlin_map_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-debug-43:\\drawable_hideout_penthouse.jpg.flat",
+        "source": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-main-45:\\drawable\\hideout_penthouse.jpg"
+    },
+    {
+        "merged": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-debug-43:\\drawable_splashscreen.png.flat",
+        "source": "C:\\Users\\czenk\\.gradle\\daemon\\9.3.0\\com.zentech.glitchprotocol.app-main-45:\\drawable\\splashscreen.png"
+    }
+]
