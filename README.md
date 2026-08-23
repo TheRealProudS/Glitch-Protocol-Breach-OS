@@ -1,7 +1,7 @@
 ﻿# ⚡ Glitch Protocol: Breach OS
 
 <p align=center>
-  <img src=app/src/main/res/drawable/glitch_app_logo.jpg alt=Glitch Protocol Logo width=160 />
+  <img src=app/src/main/res/drawable/app_logo.png alt=Glitch Protocol Logo width=160 />
 </p>
 
 <p align=center>
